@@ -4,4 +4,5 @@ Only vegan is a minimalist, beautiful, responsive website. It is built using the
 
 <h2> What You'll Build </h2>
 Homepage:
-![image](https://user-images.githubusercontent.com/70619834/179653218-ee032770-a2f9-4c5d-90ba-6a05ba094cc5.png)
+![alt text](https://github.com/kmj29/only-vegan-website/blob/master/homepage.png?raw=true)
+
