@@ -1,4 +1,4 @@
-<h2> Minamalist Ecommerce Website using bootstrap </h2>
+<h2> Minimalist Ecommerce Website using bootstrap </h2>
 Only vegan is a minimalist, beautiful, responsive website. It is built using the Bootstrap 4.
 
 
